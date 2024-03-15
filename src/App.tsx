@@ -1,9 +1,9 @@
-import './App.css'
+import ProductPage from './ProductPage'
 
 function App() {
   return (
     <>
-      <span>test</span>
+      <ProductPage />
     </>
   )
 }
